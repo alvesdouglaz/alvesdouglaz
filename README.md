@@ -1,12 +1,12 @@
 # Douglas Alves
 <*Welcome to my profile*>
 
+[](#open_pgp_public_key)
 > [!NOTE]
 > **🔓 Open PGP Public-Key:**
 > 
 > _public_pgp_here_
 >
-
 
 
 
