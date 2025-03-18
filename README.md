@@ -1,10 +1,8 @@
 # Douglas Alves
 <*Welcome to my profile*>
 
-<a href=#/pgp_public_key>
-
-> [!My OPGP Public-Key]  
-> public_pgp_key
+> [!NOTE]  
+> Highlights information that users should take into account, even when skimming.
 
 <!-- ## My Stacks -->
 
