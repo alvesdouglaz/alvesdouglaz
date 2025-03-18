@@ -4,7 +4,7 @@
 <a href=#/pgp_public_key>
 
 > [!My OPGP Public-Key]  
-> 
+> public_pgp_key
 
 <!-- ## My Stacks -->
 
