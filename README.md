@@ -1,12 +1,11 @@
 # Douglas Alves
 <*Welcome to my profile*>
 
-> [!NOTE]  
-> Highlights information that users should take into account, even when skimming.
-
-
-> [!🔒] PGP
-> Message to the reader
+> [!NOTE]
+> **🔓 Open PGP Public-Key:**
+> 
+> _public_pgp_here_
+>
 
 
 
